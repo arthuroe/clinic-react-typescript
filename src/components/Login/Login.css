@@ -1,0 +1,60 @@
+.login-wrapper{
+  background: url(../../images/front-background.png);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 25%;
+}
+
+h4{
+  color: #fff;
+  text-align: center;
+}
+
+form{
+  margin: 0 auto;
+}
+
+form input{
+  margin: 5px auto;
+  display: block;
+  padding: 10px;
+  border: 0;
+  border-radius: 0px;
+  margin-bottom: 10px;
+  width: 60%;
+  box-sizing: border-box;
+  font-size: 13px;
+}
+
+form button{
+  border: 0;
+  padding: 9px 20px;
+  background: #0788d3;
+  color: #fff;
+  width: 25%;
+  display: block;
+  margin: 5px auto;
+}
+
+.login-wrapper img{
+  width: 70px;
+  height: auto;
+  float: left;
+}
+
+.login-bottom{
+  margin-top: 25px;
+}
+
+.login-bottom p{
+  float: right;
+  font-size: 9px;
+  padding: 5px 10px;
+  color: #fff;
+}
+
+.login-wrapper h2 {
+  padding: 10px;
+}

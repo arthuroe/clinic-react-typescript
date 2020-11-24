@@ -1,0 +1,21 @@
+.top-wrapper{
+  background: #0d47a1;
+}
+
+.menu-icon{
+  display: inline-block;
+
+}
+
+.menu-icon .fa{
+  color: #fff;
+  text-align: center;
+  border-right: 1px solid #fff;
+  padding: 12px 20px;
+}
+
+.navbar-header{
+  display: inline-block;
+  width: 90%;
+  padding: 10px 25px;
+}

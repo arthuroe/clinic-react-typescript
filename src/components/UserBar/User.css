@@ -1,0 +1,24 @@
+
+.userbar-wrapper{
+  display: flex;
+  align-items: center;
+  float: right;
+}
+
+.image-wrapper img{
+  border: 2px solid grey;
+  border-radius: 50%;
+  width: 60px;
+}
+
+.image-wrapper{
+      margin-left: 10px;
+  justify-content: center;
+}
+.name-wrapper h4{
+  color: #000;
+}
+
+.image-wrapper .name-wrapper{
+  float: right;
+}
